@@ -1,0 +1,10 @@
+venv/
+Pipfile
+Pipfile.lock
+poetry.lock
+pyproject.toml
+chatbot/
+
+.vscode
+.ipynb_checkpoints/
+.env
