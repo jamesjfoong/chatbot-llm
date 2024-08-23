@@ -9,7 +9,7 @@
 - Clone the Repository:
 ```bash
 Copy code
-git clone https://github.com/yourusername/trend-summarizer.git
+git clone <URL>
 cd trend-summarizer
 ```
 
